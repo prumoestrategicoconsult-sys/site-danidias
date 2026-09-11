@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danidias-makeup.vercel.app/sitemap.xml
